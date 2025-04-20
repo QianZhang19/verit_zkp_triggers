@@ -33,7 +33,3 @@ Selective disclosure ensures that users can control exactly what information is 
 ## Installation & Setup:
 
 To integrate this system into your own applications, simply follow the setup steps outlined in the documentation. The system is modular and can be easily configured for your specific use case, whether you're building a new identity verification system or enhancing an existing one.
-
-## Licence:
-
-This project is licensed under the MIT License.
